@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning PHP and Java
+- 🌱 I’m currently learning PHP,Type Script and Java
 - 📫 contact: gabferrervi@gmail.com 
 -->
 <div style="display: inline_block; margin-bottom: 20px;"><br>
